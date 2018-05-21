@@ -1,7 +1,10 @@
 # code your #valid_move? method here
-def valid_move?
-  if position_taken?
+def valid_move?(board,index)
+  if position_taken?(board,index)
   else
+    if
+    else
+    end
   end
 end
 
